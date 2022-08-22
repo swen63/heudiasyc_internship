@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Stage 1: \\Election-based Key Management Protocol for IoT}{3}{0}{1}
+\beamer@sectionintoc {2}{Literature Review}{5}{0}{2}
+\beamer@sectionintoc {3}{Election-based protocol}{18}{0}{3}
+\beamer@sectionintoc {4}{Future works}{29}{0}{4}
+\beamer@sectionintoc {5}{Stage 2: IoT Security engineering}{33}{0}{5}
+\beamer@sectionintoc {6}{Conclusion \& Feedback}{36}{0}{6}

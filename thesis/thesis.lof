@@ -1,0 +1,35 @@
+\babel@toc {english}{}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Source \cite {kung_groupit_2018}: GroupIt initial structure overview\relax }}{5}{figure.caption.8}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Source \cite {kandi_versatile_2020}: Example of a network partitioning\relax }}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 3-tier architecture vs. 4-tier architecture\relax }}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces MGKMP subgroup's re-order algorithm\relax }}{12}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Source \cite {kandi_versatile_2020}: Example of a group partitioned using powers of 2 sequence\relax }}{13}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Insecure $K_R$ generation\relax }}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Node's join authorization\relax }}{15}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces GREP architecture\relax }}{18}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Key Management protocol's ecosystem\relax }}{19}{figure.caption.22}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Key Manager failure scenario\relax }}{24}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Key Manager compromising scenario\relax }}{25}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Election-based scheme architecture\relax }}{27}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Overview of LEACH-based architecture\relax }}{28}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Capacity Evaluation Function score\relax }}{30}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Failure recovery workflow\relax }}{34}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Election process message exchange\relax }}{38}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Election procedure\relax }}{38}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Election outcome\relax }}{40}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Election conflicts\relax }}{41}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Key Manager recovery routine\relax }}{42}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Key Manager breakdown\relax }}{43}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Key Manager compromise\relax }}{44}{figure.caption.46}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Key Manager turnover\relax }}{44}{figure.caption.47}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Check over message exchange\relax }}{45}{figure.caption.48}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Check Over routine\relax }}{46}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Node 7: Energy \& CEF score evolution\relax }}{52}{figure.caption.52}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Variation of energy drainage according to $nc$ value\relax }}{52}{figure.caption.53}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Source: \cite {khan_iot_2018} - Common IoT standards and protocols\relax }}{58}{figure.caption.62}%
+\addvspace {10pt}
+\addvspace {10pt}

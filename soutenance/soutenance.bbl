@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{heinzelman_energy-efcient_2000}
+Wendi~Rabiner Heinzelman, Anantha Chandrakasan, and Hari Balakrishnan.
+\newblock Energy-{Efﬁcient} {Communication} {Protocol} for {Wireless}
+  {Microsensor} {Networks}.
+\newblock page~10, 2000.
+
+\bibitem{kandi_versatile_2020}
+Mohamed~Ali Kandi, Hicham Lakhlef, Abdelmadjid Bouabdallah, and Yacine Challal.
+\newblock A versatile {Key} {Management} protocol for secure {Group} and
+  {Device}-to-{Device} {Communication} in the {Internet} of {Things}.
+\newblock {\em Journal of Network and Computer Applications}, 150:102480,
+  January 2020.
+
+\bibitem{tiloca_grep_2016}
+Marco Tiloca and Gianluca Dini.
+\newblock {GREP}: {A} group rekeying protocol based on member join history.
+\newblock In {\em 2016 {IEEE} {Symposium} on {Computers} and {Communication}
+  ({ISCC})}, pages 326--333, Messina, Italy, June 2016. IEEE.
+
+\end{thebibliography}
